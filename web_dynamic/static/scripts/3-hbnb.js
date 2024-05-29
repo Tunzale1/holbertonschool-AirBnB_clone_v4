@@ -2,7 +2,6 @@
 
 $(document).ready(function () {
   const amenitiesSelected = {};
-
   $('input[type="checkbox"]').change(function () {
     const amenityId = $(this).closest('li').data('id');
     const amenityName = $(this).closest('li').data('name');
