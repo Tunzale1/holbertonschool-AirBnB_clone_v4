@@ -11,12 +11,8 @@ The console is the first segment of the AirBnB project at Holberton School that 
 ## Table of Content
 * [Environment](#environment)
 * [Installation](#installation)
-* [File Descriptions](#file-descriptions)
-* [Usage](#usage)
-* [Examples of use](#examples-of-use)
-* [Bugs](#bugs)
+* [File Descriptions](#file-descriptions))
 * [Authors](#authors)
-* [License](#license)
 
 ## Environment
 This project is interpreted/tested on Ubuntu 14.04 LTS using python3 (version 3.4.3)
@@ -118,10 +114,8 @@ TestBaseModel class:
 * `def test_user_class_docstring(self)` - Test for the User class docstring
 
 
-## Original Authors
+## Authors
 
 Imanova Tunzala
 Ravan Asadov
 
-## License
-Public Domain. No copy write protection. 
