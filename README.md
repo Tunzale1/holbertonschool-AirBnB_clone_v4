@@ -158,4 +158,4 @@ No known bugs at this time.
 - Ravan Asadov [Github](https://github.com/ravanasad)
 
 ## License
-Public Domain. No copy write protection. 
+Public Domain. No copy write protection.
